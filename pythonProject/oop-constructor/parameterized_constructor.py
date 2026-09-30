@@ -19,3 +19,4 @@ print("BorderWidth", s.getBorderWidth())
 # s.setBorderWidth(10)
 # print("Color", s.getColor())         # Blue
 # print("BorderWidth", s.getBorderWidth())   # 10
+print("Color", s.getColor())         # red
